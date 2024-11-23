@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center" style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FFFFCC&center=true&vCenter=true&width=1200&lines=Hey,+I'm+Simão!;This+is+my+Github..." alt="Typing SVG" style="margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/adb43d78-0c63-4f16-8c0a-c79ac05033f1" alt="Resized GIF" style="width: 100%; max-width: 1200px; border-radius: 10px;">
+</div>
 
-<!--
-**SimaoNery/SimaoNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 About Me</h2>
 
-Here are some ideas to get you started:
+### Professional and Academic Background
+- 💻 Member of @NIAEFEUP 
+- 🎓 Bachelor's Student in Informatics and Computer Engineering at @FEUP 
+- 🌐 Researching at the Telecommunications and Multimedia Center at @INESCTEC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies
+- 🎺 Trumpet
+- 🎮 Video Games
+- 📚 Reading
+
+## Language and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,linux,git)](https://skillicons.dev)
