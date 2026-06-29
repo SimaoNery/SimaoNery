@@ -6,9 +6,10 @@
 <h2 align="center">👋 About Me</h2>
 
 ### Professional and Academic Background
-- 💻 Member of @NIAEFEUP 
-- 🎓 Bachelor's Student in Informatics and Computer Engineering at @FEUP 
-- 🌐 Researching at the Telecommunications and Multimedia Center at @INESCTEC
+- 🎓 Master's Student in Computer Science at @DIKU (2025-Present)
+- 🌐 Researcher at the Telecommunications and Multimedia Center at @INESCTEC (2024-2025)
+- 💻 Member of @NIAEFEUP (2023-2025)
+- 🎓 Bachelor's Student in Informatics and Computer Engineering at @FEUP (2022-2025)
 
 ### Hobbies
 - 🎺 Trumpet
